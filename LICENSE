@@ -1,12 +1,4 @@
-limits
-
-This is the limits module.
-
-License
--------
-Apache
-
-Copyright 2011 Steffen Zieger
+ Copyright 2011 Steffen Zieger
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -19,13 +11,3 @@ Copyright 2011 Steffen Zieger
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
-
-Contact
--------
-mindruv at g mail odt com
-
-
-Support
--------
-
-Please log tickets and issues at mindruv at gmail odt com
